@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "agenda" ALTER COLUMN "data" SET DATA TYPE TEXT;

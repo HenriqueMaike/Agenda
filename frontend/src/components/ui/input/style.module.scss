@@ -1,0 +1,33 @@
+.input{
+    display: flex;
+    width: 40%;
+    height: 30px;
+    max-height: 100px;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: inherit;
+    border: 1px solid var(--gray-100);
+    margin: 10px;
+    resize: vertical;
+}
+
+.imput::placeholder{
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.textarea{
+    display: flex;
+    width: 40%;
+    height: 100px;
+    max-height: 100px;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: inherit;
+    border: 1px solid var(--gray-100);
+    margin: 10px;
+    resize: vertical;
+}
+
+.imput::placeholder{
+    color: rgba(255, 255, 255, 0.8);
+}
